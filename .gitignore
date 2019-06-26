@@ -61,7 +61,6 @@ nbproject
 tmp/
 
 # Brunch output
-public/
 
 # Redis?
 dump.rdb
